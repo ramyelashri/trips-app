@@ -24,6 +24,7 @@ yarn install && yarn start
 
 # Features
 - React 16.3
+- Bootstrap 4
 - JavaScript module bundling with webpack 4
 - React, JSX, ES6, TypeScript and Flow syntax support.
 - Language extras beyond ES6 like the object spread operator.
