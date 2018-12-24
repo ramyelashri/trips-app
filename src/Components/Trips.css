@@ -1,0 +1,17 @@
+.trips {
+    margin: 50px;
+    text-align: left;
+}
+
+.trips__price {
+  float: right;
+  font-size: 1.35rem;
+}
+
+.trips__text1 {
+  font-size: 1.2rem;
+}
+
+.trips__details {
+  font-size: 1rem;
+}
