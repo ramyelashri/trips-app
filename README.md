@@ -5,8 +5,10 @@ Demo: [http://trips-app.surge.sh/](http://trips-app.surge.sh/)
 
 ## Prerequisites
 
-<a href="https://nodejs.org/" target="_blank" title="Installing Node.js and updating npm">
-Install Node and npm</a>
+You'll need:
+
+- [Yarn](https://yarnpkg.com/lang/en/docs/install) (Version 6 or greater recommended, tested with 6.11.4 and 8.12.0)
+- [Git](https://git-scm.com/)
 
 
 ## Install
