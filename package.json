@@ -8,6 +8,7 @@
     "data-mocks": "^2.3.0",
     "materialize-css": "^0.100.2",
     "mdbreact": "^4.8.6",
+    "node-sass": "^4.11.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-moment": "^0.7.7",

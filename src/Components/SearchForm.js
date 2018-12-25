@@ -37,7 +37,7 @@ export default class SearchForm extends Component {
                 </div>
               }
               <form onSubmit={this.handleSubmit}>
-              <small class="form-text text-muted">
+              <small className="form-text text-muted">
                 Hint: from London to Amsterdam
               </small>
                 <select className="custom-select custom-select-lg mb-3" ref="departure">

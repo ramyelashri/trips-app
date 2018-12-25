@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { injectMocks } from 'data-mocks';
 import axios from 'axios';
 import { responseJson } from './responseJson';
-import './Trips.css';
+import './Trips.scss';
 
 export default class Trips extends Component {
   constructor(props){
